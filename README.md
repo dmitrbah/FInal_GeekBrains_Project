@@ -10,3 +10,6 @@
 Переименовать файл, дав ему новое имя (Друзья человека).
 
 ![Task 1](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_1.png)
+
+## Задание 2
+Создать директорию, переместить файл туда.
