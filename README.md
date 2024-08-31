@@ -24,3 +24,5 @@
 
 ## Задание 4
 Установить и удалить deb-пакет с помощью dpkg.
+
+![Task 4](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_4.png)
