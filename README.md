@@ -15,3 +15,6 @@
 Создать директорию, переместить файл туда.
 
 ![Task 2](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_2.png)
+
+## Задание 3
+Подключить дополнительный репозиторий MySQL. Установить любой пакет из этого репозитория.
