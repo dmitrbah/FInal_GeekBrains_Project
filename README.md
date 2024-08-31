@@ -18,3 +18,6 @@
 
 ## Задание 3
 Подключить дополнительный репозиторий MySQL. Установить любой пакет из этого репозитория.
+
+![Task 3](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_3.1.png)
+![Task 3](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_3.2.png)
