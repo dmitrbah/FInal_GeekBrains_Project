@@ -13,3 +13,5 @@
 
 ## Задание 2
 Создать директорию, переместить файл туда.
+
+![Task 2](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_2.png)
