@@ -21,3 +21,6 @@
 
 ![Task 3](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_3.1.png)
 ![Task 3](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_3.2.png)
+
+## Задание 4
+Установить и удалить deb-пакет с помощью dpkg.
