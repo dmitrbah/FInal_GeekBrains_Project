@@ -28,3 +28,8 @@
 Выложить историю команд в терминале ubuntu.
 ![Task 5](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_5.1.png)
 ![Task 5](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_5.2.png)
+
+## Задание 6
+Нарисовать диаграмму, в которой есть класс родительский класс, домашние животные и 
+вьючные животные, в составы которых в случае домашних животных войдут классы: собаки, 
+кошки, хомяки, а в класс вьючные животные войдут: лошади, верблюды и ослы.
