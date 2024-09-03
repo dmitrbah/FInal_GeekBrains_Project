@@ -38,3 +38,6 @@
 ## Задание 7
 В подключенном MySQL репозитории создать базу данных "Друзья человека"
 ![Task 7](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_7.png)
+
+## Задание 8
+Создать таблицы с иерархией из диаграммы в БД
