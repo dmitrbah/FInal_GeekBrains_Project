@@ -128,3 +128,5 @@ CREATE TABLE Hamsters
     FOREIGN KEY (Genus_id) REFERENCES Pets (id) ON DELETE CASCADE ON UPDATE CASCADE
 );
 ```
+## Задание 9
+Заполнить низкоуровневые таблицы именами (животных), командами которые они выполняют и датами рождения
