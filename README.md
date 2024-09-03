@@ -41,6 +41,7 @@
 
 ## Задание 8
 Создать таблицы с иерархией из диаграммы в БД
+
 ![Task 8](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_8.png)
 ```
 USE Human_friends;
@@ -127,6 +128,3 @@ CREATE TABLE Hamsters
     FOREIGN KEY (Genus_id) REFERENCES Pets (id) ON DELETE CASCADE ON UPDATE CASCADE
 );
 ```
-
-## Задание 9
-Заполнить низкоуровневые таблицы именами(животных), командами которые они выполняют и датами рождения
