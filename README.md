@@ -41,6 +41,7 @@
 
 ## Задание 8
 Создать таблицы с иерархией из диаграммы в БД
+
 ![Task 8](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_8.png)
 ```
 USE Human_friends;
