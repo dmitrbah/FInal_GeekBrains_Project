@@ -198,3 +198,4 @@ SELECT * FROM Camels;
 SELECT Name, Birthday, Commands, Genus_id FROM Horses
 UNION SELECT Name, Birthday, Commands, Genus_id FROM Donkeys;
 ```
+![Task 10](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_10.png)
