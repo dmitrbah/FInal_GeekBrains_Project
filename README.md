@@ -190,3 +190,11 @@ VALUES
 ## Задание 10
 Удалив из таблицы верблюдов, т.к. верблюдов решили перевезти в другой
 питомник на зимовку. Объединить таблицы лошади, и ослы в одну таблицу.
+```
+SET SQL_SAFE_UPDATES = 0;
+DELETE FROM Camels;
+SELECT * FROM Camels;
+
+SELECT Name, Birthday, Commands, Genus_id FROM Horses
+UNION SELECT Name, Birthday, Commands, Genus_id FROM Donkeys;
+```
