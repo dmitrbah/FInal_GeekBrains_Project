@@ -37,3 +37,4 @@
 
 ## Задание 7
 В подключенном MySQL репозитории создать базу данных "Друзья человека"
+![Task 7](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_7.png)
