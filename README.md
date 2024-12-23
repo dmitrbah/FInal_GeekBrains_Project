@@ -257,4 +257,5 @@ LEFT JOIN Pets p ON p.Id = hm.Genus_id
 
 ## Задание 13
 Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
-![Ссылка на код Java](https://github.com/dmitrbah/FInal_GeekBrains_Project/tree/master/AnimalNursery/src)
+
+<https://github.com/dmitrbah/FInal_GeekBrains_Project/tree/master/AnimalNursery/src>
