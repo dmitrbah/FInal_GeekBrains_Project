@@ -260,7 +260,7 @@ LEFT JOIN Pets p ON p.Id = hm.Genus_id
 
 <https://github.com/dmitrbah/FInal_GeekBrains_Project/tree/master/AnimalNursery/src/models>
 
-# Задание 14 и 15
+## Задание 14 и 15
 14. Написать программу, имитирующую работу реестра домашних животных. В программе должен быть реализован следующий функционал:
   * Завести новое животное
   * определять животное в правильный класс
