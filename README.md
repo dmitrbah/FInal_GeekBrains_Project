@@ -254,3 +254,7 @@ LEFT JOIN Young_animals ya ON ya.Name = hm.Name
 LEFT JOIN Pets p ON p.Id = hm.Genus_id
 ```
 ![Task 12](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_12.png)
+
+## Задание 13
+Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
+![Ссылка на код Java](https://github.com/dmitrbah/FInal_GeekBrains_Project/tree/master/AnimalNursery/src)
