@@ -221,3 +221,7 @@ FROM animals_temp WHERE Birthday BETWEEN ADDDATE(CURDATE(), INTERVAL -3 YEAR) AN
 SELECT * FROM Young_animals;
 ```
 ![Task 11](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_11.png)
+
+## Задание 12
+Объединить все таблицы в одну, при этом сохраняя поля, указывающие на
+прошлую принадлежность к старым таблицам.
