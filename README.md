@@ -199,3 +199,10 @@ SELECT Name, Birthday, Commands, Genus_id FROM Horses
 UNION SELECT Name, Birthday, Commands, Genus_id FROM Donkeys;
 ```
 ![Task 10](https://github.com/dmitrbah/FInal_GeekBrains_Project/blob/master/Images/Task_10.png)
+
+## Задание 11
+Создать новую таблицу “молодые животные” в которую попадут все животные
+старше 1 года, но младше 3 лет и в отдельном столбце с точностью до месяца 
+подсчитать возраст животных в новой таблице
+```
+```
